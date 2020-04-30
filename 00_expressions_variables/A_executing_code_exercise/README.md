@@ -2,14 +2,14 @@
 
 You won't become a strong programmer with "one secret trick" or "however-many expert tips". No shortcuts. Just write code, run it, do it again. We'll be creating and executing hundreds of programs in this course. Let's bang out the first four.
 
-Before you start this exercise make sure you have watched the lecture first.
+Before you start this exercise, make sure you have watched the lecture first.
 
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the walkthrough to get yourself
 unstuck, then pause the video and pick up the exercise on your own.
 
 -AZ
 
-## Follow my lead.
+## 0. Follow my lead.
 
 
 1. If you already have VSCode open, close it.
@@ -22,7 +22,7 @@ unstuck, then pause the video and pick up the exercise on your own.
 7. Open the terminal and enter the command `node greeting.js` to execute your code. **You should see `hello world`
    printed out.**
 
-## Still following?
+## 1. Still following?
 
 
 
@@ -31,13 +31,13 @@ unstuck, then pause the video and pick up the exercise on your own.
    around your name and end the line with a semicolon (`;`).
 3. Save `whoami.js` and execute it in your terminal using the `node`. **You should see your name printed out.**
 
-## I'll follow you.
+## 2. I'll follow you.
 
 Start from scratch. Close VSCode if you have it open. Use VSCode to write a program named `thirsty.js` inside of the
 `my-first-programs` folder. The program should print out your favorite cold beverage. Execute `thirsty.js` in your
 terminal.
 
-## Beginner's luck; show me it again.
+## 3. Beginner's luck; show me it again.
 
 That seems suspicious. Write a program named `age.js` that prints out your age. Run it.
 
