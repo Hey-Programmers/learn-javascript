@@ -1,6 +1,6 @@
 # Write, Run, Repeat
 
-You won't become a strong programmer with "one secret trick" or "however-many expert tips". No shortcuts. Just write code, run it, do it again. We'll be creating and executing a hundred of programs in this course. Let's bang out the first four.
+You won't become a strong programmer with "one secret trick" or "however-many expert tips". No shortcuts. Just write code, run it, do it again. We'll be creating and executing hundreds of programs in this course. Let's bang out the first four.
 
 Before you start this exercise make sure you have watched the lecture first.
 
