@@ -99,3 +99,8 @@ MIICWwIBAAKBgGEdLjFEFbegPZ2AwJWkalksXr7PzWL7wIc7pOFZxXwYPWtQxvANyceCwpkqbPLsfEx7
 ```
 
 Fine. You can copy and paste, _this_ time.
+
+## Walkthrough
+
+Watch the walkthrough in it's entirety so you don't miss out on any knowledge. Still watch the full walkthrough even if
+you were able to complete this exercise easily, I may drop some tips. Watch it in 1.5x speed if you like.
