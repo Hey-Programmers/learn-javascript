@@ -53,7 +53,7 @@ console.log(word.indexOf("o") > -1);
 console.log(word.indexOf("z") > -1);
 
 let str = "foggy";
-console.log(str[2  1]);
+console.log(str[2 + 1]);
 console.log(str[str.length - 1]);
 str = " day";
 console.log(str);
