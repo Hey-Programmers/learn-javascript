@@ -1,6 +1,8 @@
 # Write, Run, Repeat
 
-You won't become a strong programmer with "one secret trick" or "however-many expert tips". No shortcuts. Just write code, run it, do it again. We'll be creating and executing hundreds of programs in this course. Let's bang out the first four.
+You won't become a strong programmer with "one secret trick" or "however-many expert tips". No shortcuts. Just write
+code, run it, do it again. We'll be creating and executing hundreds of programs in this course. Let's bang out the first
+four.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
@@ -13,7 +15,6 @@ Let's get to work.
 
 ## 0. Follow my lead.
 
-
 1. If you already have VSCode open, close it.
 2. On your computer's Desktop, create a new folder named `my-first-programs`.
 3. Open the `my-first-programs` folder in VSCode
@@ -25,8 +26,6 @@ Let's get to work.
    printed out.**
 
 ## 1. Still following?
-
-
 
 1. Inside the `my-first-programs` folder, create a new file named `whoami.js`.
 2. Inside of `whoami.js` use `console.log` to print out your first name. Don't forget to put quotation marks (`'`)

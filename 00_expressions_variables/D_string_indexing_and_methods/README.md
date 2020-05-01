@@ -1,4 +1,4 @@
-# String Indexing and Methods
+# Intelligent Indexing
 
 A string consists of one or more characters. An _index_ is a number that corresponds to the position of a character in a
 string. The first character of a string has _index 0_, the second character has _index 1_, and so on. _Indexing_ is a
