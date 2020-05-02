@@ -73,20 +73,6 @@ console.log(oneOrNone(false, true)); // true
 console.log(oneOrNone(true, true)); // false
 ```
 
-### larger
-
-Create a `larger.js` file and solve the function below:
-
-```js
-// Write a function `larger` that accepts two numbers as arguments. The function should return the larger number.
-
-console.log(larger(256, 400)); // 400
-console.log(larger(31, 4)); // 31
-console.log(larger(-6, 7)); // 7
-console.log(larger(11.3, 11.2)); // 11.3
-console.log(larger(-10, -3)); // -3
-```
-
 ### endsInLy
 
 Create a `ends-in-ly.js` file and solve the function below:
@@ -146,10 +132,10 @@ Create a `wacky-word.js` file and solve the function below:
 // You can assume that the first argument has a length of at least three and the second argument has a length of at least
 // two.
 
-console.log(wackyWord("very", "kindly")); // verly
-console.log(wackyWord("forever", "sick")); // forck
-console.log(wackyWord("cellar", "door")); // celor
-console.log(wackyWord("bagel", "sweep")); // bagep
+console.log(wackyWord("very", "kindly")); // 'verly'
+console.log(wackyWord("forever", "sick")); // 'forck'
+console.log(wackyWord("cellar", "door")); // 'celor'
+console.log(wackyWord("bagel", "sweep")); // 'bagep'
 ```
 
 ## Walkthrough
