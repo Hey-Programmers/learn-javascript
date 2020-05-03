@@ -17,10 +17,11 @@ and "sentences" of programming, we now turn our attention to the "paragraphs".
 
 Before you write functions on your own, let's warm up by interpretting a few.
 
-Create a new folder named `A_functions_exercise`. Inside, create a file named on `read_practice.js`. Predict what would
-print when executing each of the snippets below. Test your prediction by typing the snippet into `read_practice.js` and
-executing the program. Don't copy and paste. Once you have verified that prediction, comment out the snippet in your
-file and move to the next.
+Create a new folder named `A_functions_exercise`. Predict what would print when executing each of the snippets below.
+Test your prediction by typing the snippet into their own files and executing the program. Don't copy and paste. Once
+you have verified that prediction, comment out the snippet in your file and move to the next.
+
+Write the below code into a snippet named `snippet-0-1.js`. Make a prediction for it will print. Run it.
 
 ```js
 // snippet 0-1
@@ -41,6 +42,8 @@ console.log("fourth");
 whistle();
 ```
 
+Write the below code into a snippet named `snippet-0-2.js`. Make a prediction for it will print. Run it.
+
 ```js
 // snippet 0-2
 let howMany = function () {
@@ -59,6 +62,8 @@ let howMuch = function () {
 console.log(howMuch());
 ```
 
+Write the below code into a snippet named `snippet-0-3.js`. Make a prediction for it will print. Run it.
+
 ```js
 // snippet 0-3
 let average = function (num1, num2) {
@@ -75,6 +80,8 @@ let b = 20;
 let n = average(a, b);
 console.log(average(n, 18));
 ```
+
+Write the below code into a snippet named `snippet-0-4.js`. Make a prediction for it will print. Run it.
 
 ```js
 // snippet 0-4
