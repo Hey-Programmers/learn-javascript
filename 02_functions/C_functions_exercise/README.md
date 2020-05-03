@@ -7,8 +7,7 @@ unstuck, then pause the video and pick up the exercise on your own.
 
 I think the reason why coding has a reputation for being nonintuitive is because beginners don't spend enough time on
 the basics. They miss a step early, but they continue to stumble through more advanced topics until that debt cannot be
-ignored. That is why I think it's important to exercise a concept extensively before shifting focus. We'll cover the
-cool stuff when I think your ready.
+ignored. That is why I think it's important to exercise a concept extensively before shifting focus.
 
 -AZ
 
