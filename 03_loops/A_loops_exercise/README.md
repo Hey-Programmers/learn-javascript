@@ -32,7 +32,7 @@ for (let i = 0; i < 5; i++) {
 console.log("goodbye");
 ```
 
-Write the below code into a file named `snippet-2.js`. Make a prediction for it will print. Run it.
+Write the below code into a file named `snippet-2.js`. Make a prediction for what it will print. Run it.
 
 ```js
 // snippet 2
@@ -46,7 +46,7 @@ for (let i = 3; i <= 7; i++) {
 console.log("bye");
 ```
 
-Write the below code into a file named `snippet-3.js`. Make a prediction for it will print. Run it.
+Write the below code into a file named `snippet-3.js`. Make a prediction for what it will print. Run it.
 
 ```js
 // snippet 3
@@ -62,7 +62,7 @@ console.log("end");
 foo();
 ```
 
-Write the below code into a file named `snippet-4.js`. Make a prediction for it will print. Run it.
+Write the below code into a file named `snippet-4.js`. Make a prediction for what it will print. Run it.
 
 ```js
 // snippet 4
@@ -73,7 +73,7 @@ for (let i = 0; i < word.length; i++) {
 }
 ```
 
-Write the below code into a file named `snippet-5.js`. Make a prediction for it will print. Run it.
+Write the below code into a file named `snippet-5.js`. Make a prediction for what it will print. Run it.
 
 ```js
 // snippet 5
