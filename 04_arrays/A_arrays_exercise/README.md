@@ -1,4 +1,4 @@
-# Arrays for Days
+# All Programmers Need a Raise
 
 _Arrays_ are a construct that programmers use to store related values in a single variable. An
 _array_ contains one or more _elements_.
