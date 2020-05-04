@@ -6,7 +6,7 @@ If you get stuck during this exercise, reference this walkthrough. Only watch en
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
 Remember that time at the beginning of the course where you couldn't read or write any code? Look at 
-you, smarty pants.
+you now, smarty pants.
 
 -AZ
 
