@@ -1,23 +1,25 @@
 # Express Yourself
 
-_Expressions_ are the building blocks of programs. We can combine _values_ with _operators_ to compose an expression. An
-_expression_ evaluates to some _value_.
+_Expressions_ are the building blocks of programs. We can combine _values_ with _operators_ to
+compose an expression. An _expression_ evaluates to some _value_.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
-If you get stuck during this exercise, reference this walkthrough. Only watch enough of the walkthrough to get yourself
-unstuck, then pause the video and pick up the exercise on your own.
+If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
+walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
-The fundamentals of any skill aren't particularly glamorous. We'll learn the "cool" stuff when you are ready ;).
+The fundamentals of any skill aren't particularly glamorous. We'll learn the "cool" stuff when you
+are ready. Crawl. Walk. Run.
 
 -AZ
 
 ## 0. Hope you didn't forget.
 
-Create a new folder named `expressions-exercise`. Open it in VSCode. Create four files within this folder:
-`string-expressions.js`, `number-expressions.js`, `boolean-expressions.js`, `comparisons.js`.
+Create a new folder named `expressions-exercise`. Open it in VSCode. Create four files within this
+folder: `string-expressions.js`, `number-expressions.js`, `boolean-expressions.js`,
+`comparisons.js`.
 
-After creating these files, your folder structure should like like this:
+After creating these files, your folder structure should look like this:
 
 ```plaintext
 expressions-exercise/
@@ -39,15 +41,16 @@ console.log("runner's knee" + "!");
 console.log("man" + "bear" + "pig");
 ```
 
-To check your prediction, write the code into `string-expressions.js` and run it in your terminal with `node string-expressions.js`. Don't
-copy and paste. Type everything manually. You should do this line by line. This means you should type the first
-expression, run it. Add the second expression, run it, and so on. Don't try to type all five lines and then run it all
-at once. You will find it hard to pinpoint any typos if you do that.
+To check your prediction, write the code into `string-expressions.js` and run it in your terminal
+with `node string-expressions.js`. Don't copy and paste. Type everything manually. You should do
+this line by line. This means you should type the first expression, run it. Add the second
+expression, run it, and so on. Don't try to type all five lines and then run it all at once. You
+will find it hard to pinpoint any typos if you do that.
 
 ## 2. Don't enjoy math? Too bad.
 
-Make predictions for what these number expressions evaluate to. Test your predictions by writing the code to
-`number-expressions.js` and running it:
+Make predictions for what these number expressions evaluate to. Test your predictions by writing the
+code to `number-expressions.js` and running it:
 
 ```js
 console.log(2 + 3);
@@ -74,8 +77,8 @@ console.log((5 + 10) % 5);
 
 ## 3. Shoutout to George Boole.
 
-Make predictions for what these boolean expressions evaluate to. Test your predictions by writing the code to
-`boolean-expressions.js` and running it:
+Make predictions for what these boolean expressions evaluate to. Test your predictions by writing
+the code to `boolean-expressions.js` and running it:
 
 ```js
 console.log(false);
@@ -99,10 +102,10 @@ console.log(false || !(true && true));
 console.log(!true && (false || true));
 ```
 
-## 4. Making Comparisons.
+## 4. Drawing a Comparison.
 
-Make predictions for what these comparison expressions evaluate to. Test your predictions by writing the code to
-`comparisons.js` and running it:
+Make predictions for what these comparison expressions evaluate to. Test your predictions by writing
+the code to `comparisons.js` and running it:
 
 ```js
 console.log(true === false);
@@ -129,5 +132,6 @@ console.log(5 > 3 && 1 === 0);
 
 ## Walkthrough
 
-Watch the walkthrough in it's entirety so you don't miss out on any knowledge. Still watch the full walkthrough even if
-you were able to complete this exercise easily, I may drop some tips. Watch it in 1.5x speed if you like.
+Watch the walkthrough in it's entirety so you don't miss out on any knowledge. Still watch the full
+walkthrough even if you were able to complete this exercise easily, so you don't miss any tips.
+Watch it in 1.5x speed if you like.

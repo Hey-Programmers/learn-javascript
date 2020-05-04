@@ -1,24 +1,24 @@
 # Intelligent Indexing
 
-A string consists of one or more characters. An _index_ is a number that corresponds to the position of a character in a
-string. The first character of a string has _index 0_, the second character has _index 1_, and so on. _Indexing_ is a
-pattern that programmers use often in strings. This pattern will also appear later in more advanced applications.
+A string consists of one or more characters. An _index_ is a number that corresponds to the position
+of a character in a string. The first character of a string has _index 0_, the second character has
+_index 1_, and so on. _Indexing_ is a pattern that programmers use often in strings. This pattern
+will also appear later in more advanced applications.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
-If you get stuck during this exercise, reference this walkthrough. Only watch enough of the walkthrough to get yourself
-unstuck, then pause the video and pick up the exercise on your own.
+If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
+walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
-This is where we begin to unlock the basic programming patterns that you'll always be able to rely on. Study them
-closely. When I was learning how to program, I found that the more advanced patterns I studied, the more I realized they
-were just variations of a handful of fundamental patterns.
+This is where we begin to unlock the basic programming patterns that you'll always be able to rely
+on. Study them closely.
 
 -AZ
 
 ## 0. Small String Snippets.
 
-Create a new folder named `string-indexing-and-methods`. Create a file named `small-string-snippets.js` inside. Predict
-what the following code will print out:
+Create a new folder named `string-indexing-and-methods`. Create a file named
+`small-string-snippets.js` inside. Predict what the following code will print out:
 
 ```js
 console.log("promenade"[3]);
@@ -36,13 +36,13 @@ console.log("red".indexOf("x"));
 console.log("red".indexOf("R"));
 ```
 
-Verify your predictions by writing the code to the `small-string-snippets.js` file. Don't copy and paste; type
-everything out manually. Run the code.
+Verify your predictions by writing the code to the `small-string-snippets.js` file. Don't copy and
+paste; type everything out manually. Run the code.
 
 ## 1. Proper Patterns.
 
-Inside of the `string-indexing-and-methods` folder create another file named `proper-patterns.js`. Predict what the
-following code will print out:
+Inside of the `string-indexing-and-methods` folder create another file named `proper-patterns.js`.
+Predict what the following code will print out:
 
 ```js
 let word = "suspension bridge";
@@ -65,8 +65,8 @@ Type the code. Don't copy and paste. Run it. Check your predictions.
 
 ## 2. Dare to Decipher?
 
-Inside of the `string-indexing-and-methods` folder create another file named `date-to-decipher.js`. Predict what the
-following code will print out:
+Inside of the `string-indexing-and-methods` folder create another file named `date-to-decipher.js`.
+Predict what the following code will print out:
 
 ```js
 let phrase = "that's all folks";
@@ -91,8 +91,9 @@ Nice code. Run it.
 
 ## 3. A Tedious Task
 
-Inside of the `string-indexing-and-methods` folder create another file named `a-tedious-task.js`. Write the program so that it
-prints out the index where the substring `HEY` can be found in the text below. 
+Inside of the `string-indexing-and-methods` folder create another file named `a-tedious-task.js`.
+Write the program so that it prints out the index where the substring `HEY` can be found in the text
+below.
 
 ```plaintext
 MIICWwIBAAKBgGEdLjFEFbegPZ2AwJWkalksXr7PzWL7wIc7pOFZxXwYPWtQxvANyceCwpkqbPLsfEx7nqxAris2hYOdeN1OTFqvTyNmVuzbUPcXShn6ZoDCB30voHkeu4F3cUw5RQEUDdLscSnv4HMxHam5qgl6vXoumVNHbjyKA5UtAnfjAgMBAAECgYAmjEyvpZTxRJvwjxDi1VaZevFI0Hd4WPH9PAGgqdnH84vGXnAGFj1WikqKYcqKMQW2kdjAsWwH9D9FfrkIcDDHdZ9XuGSGkFzWtOwajWMQl7qNV1hZ288gdpIQQMOTLDgauZY6pw1cV7h4v316qJB8knQGoBNpJCfTYQJBAKV1ctsJq0Zg4QumD2hyODepP3LfLeaQsERLqVAWeuOuTY5mK5gIwsSqvcSVfY7Ze1FWIsApNFRv67azKcJPwsCQQCNlyApZFJEVNY70Er7Uu5NL9t4CYJJC9uVVkoEHEY6d7sVslqa0vP2q0zXx9YedbMBvQjxXIbY0waXUy63FvoBGJAkB3OTJWUjVgzDY1Br5wu2Yu59NjKVKLWzCsu1gaCNBfhVDX7SyIyC9EYKRfUAoQxwsmPWPyQ9QVG4WKcPZJAkBRheAotPCBE2RLHHfvpiStnMhX0UXdVyaJp5tcZ6wYV61ohyBvCOkYhUxBJzeIGrVZcvLZSLeUzXoqRPpxQxAkEAkdCZXF0gHahpZgF5y0wWcqf9ECRT1E4Hv8bk3Mf0Exp2aW34JeI6I7Xqd1NV4I9H7prQ8m3y39lFwWO8PmQ
@@ -102,5 +103,6 @@ Fine. You can copy and paste, _this_ time.
 
 ## Walkthrough
 
-Watch the walkthrough in it's entirety so you don't miss out on any knowledge. Still watch the full walkthrough even if
-you were able to complete this exercise easily, I may drop some tips. Watch it in 1.5x speed if you like.
+Watch the walkthrough in it's entirety so you don't miss out on any knowledge. Still watch the full
+walkthrough even if you were able to complete this exercise easily, so you don't miss any tips.
+Watch it in 1.5x speed if you like.

@@ -1,15 +1,15 @@
 # What's your function?
 
-_Functions_ are constructs that allow programmers to group multiple statements together into a single logical unit.
-Functions may take _arguments_ as input and return some value as output.
+_Functions_ are constructs that allow programmers to group multiple statements together into a
+single logical unit. Functions may take _arguments_ as input and return some value as output.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
-If you get stuck during this exercise, reference this walkthrough. Only watch enough of the walkthrough to get yourself
-unstuck, then pause the video and pick up the exercise on your own.
+If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
+walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
-This is where we bring well defined structure to our code. If so far we've only learned the isolated "words", "phrases",
-and "sentences" of programming, we now turn our attention to the "paragraphs".
+This is where we bring well defined structure to our code. If so far we've only learned the isolated
+"words", "phrases", and "sentences" of programming, we now turn our attention to the "paragraphs".
 
 -AZ
 
@@ -17,10 +17,12 @@ and "sentences" of programming, we now turn our attention to the "paragraphs".
 
 Before you write functions on your own, let's warm up by interpretting a few.
 
-Create a new folder named `A_functions_exercise`. Predict what would print when executing each of the snippets below.
-Test your prediction by typing the snippet into their own files and executing the program. Don't copy and paste.
+Create a new folder named `A_functions_exercise`. Predict what would print when executing each of
+the snippets below. Test your prediction by typing the snippet into their own files and executing
+the program. Don't copy and paste.
 
-Write the below code into a file named `snippet-0-1.js`. Make a prediction for what it will print. Run it.
+Write the below code into a file named `snippet-0-1.js`. Make a prediction for what it will print.
+Run it.
 
 ```js
 // snippet 0-1
@@ -41,7 +43,8 @@ console.log("fourth");
 whistle();
 ```
 
-Write the below code into a file named `snippet-0-2.js`. Make a prediction for what it will print. Run it.
+Write the below code into a file named `snippet-0-2.js`. Make a prediction for what it will print.
+Run it.
 
 ```js
 // snippet 0-2
@@ -61,7 +64,8 @@ let howMuch = function () {
 console.log(howMuch());
 ```
 
-Write the below code into a file named `snippet-0-3.js`. Make a prediction for what it will print. Run it.
+Write the below code into a file named `snippet-0-3.js`. Make a prediction for what it will print.
+Run it.
 
 ```js
 // snippet 0-3
@@ -80,7 +84,8 @@ let n = average(a, b);
 console.log(average(n, 18));
 ```
 
-Write the below code into a file named `snippet-0-4.js`. Make a prediction for what it will print. Run it.
+Write the below code into a file named `snippet-0-4.js`. Make a prediction for what it will print.
+Run it.
 
 ```js
 // snippet 0-4
@@ -98,17 +103,18 @@ console.log(result[result.length - 1]);
 
 ## 1. Practice how to write.
 
-In this section of the exercise you'll be prompted to write a function to accomplish a specific task. Read the
-description and look at the example output to figure out what should be implemented within the function. Write each
-function to a separate file in the `A_functions_exercise` folder and test your work by running the file.
+In this section of the exercise you'll be prompted to write a function to accomplish a specific
+task. Read the description and look at the example output to figure out what should be implemented
+within the function. Write each function to a separate file in the `A_functions_exercise` folder and
+test your work by running the file.
 
 ### isDivBy4
 
 Create an `is-div-by-4.js` file and solve the function below:
 
 ```js
-// Write a function `isDivBy4` that accepts a number as an argument. The function should return a boolean indicating
-// whether or not the number is divisible by 4.
+// Write a function `isDivBy4` that accepts a number as an argument. The function should return a
+// boolean indicating whether or not the number is divisible by 4.
 
 console.log(isDivBy4(8)); // true
 console.log(isDivBy4(12)); // true
@@ -122,8 +128,8 @@ console.log(isDivBy4(10)); // false
 Create a `keep-it-quiet.js` file and solve the function below:
 
 ```js
-// Write a function `keepItQuiet` that accepts a string as an argument. The function should return the lowercase version
-// of the string with 3 periods added to the end of it
+// Write a function `keepItQuiet` that accepts a string as an argument. The function should return the
+// lowercase version of the string with 3 periods added to the end of it.
 
 console.log(keepItQuiet("HOORAY")); // 'hooray...'
 console.log(keepItQuiet("Doggo")); // 'doggo...'
@@ -134,9 +140,10 @@ console.log(keepItQuiet("WHAT?!?!")); // 'what?!?!...'
 
 Create an `is-long.js` file and solve the function below:
 
+
 ```js
-// Write a function `isLong` that accepts a string as an argument. The function should return a boolean indicating
-// whether or not the string is longer than 5 characters
+// Write a function `isLong` that accepts a string as an argument. The function should return a boolean
+// indicating whether or not the string is longer than 5 characters
 
 console.log(isLong("pie")); // false
 console.log(isLong("kite")); // false
@@ -150,8 +157,10 @@ console.log(isLong("restaurant")); // true
 
 Create a `half.js` file and solve the function below:
 
+
 ```js
-// Write a function `half` that accepts a number as an argument. The function should return half of the number.
+// Write a function `half` that accepts a number as an argument. The function should return half of the
+// number.
 
 console.log(half(8)); // 4
 console.log(half(15)); // 7.5
@@ -163,8 +172,8 @@ console.log(half(90)); // 45
 Create an `endsWithT.js` file and solve the function below:
 
 ```js
-// Write a function `endsWithT` that accepts a string as an argument. The function should return a boolean indicating
-// whether or not the string ends with the character 't'.
+// Write a function `endsWithT` that accepts a string as an argument. The function should return a
+// boolean indicating whether or not the string ends with the character 't'.
 
 console.log(endsWithT("smart")); // true
 console.log(endsWithT("racket")); // true
@@ -176,8 +185,10 @@ console.log(endsWithT("boomerang")); // false
 
 Create an `average.js` file and solve the function below:
 
+
 ```js
-// Write a function `average` that accepts three numbers as arguments. The function should return the average of the three numbers.
+// Write a function `average` that accepts three numbers as arguments. The function should return the
+// average of the three numbers.
 
 console.log(average(3, 10, 8)); // 7
 console.log(average(10, 5, 12)); // 9
@@ -186,5 +197,6 @@ console.log(average(6, 20, 40)); // 22
 
 ## Walkthrough
 
-Watch the walkthrough in it's entirety so you don't miss out on any knowledge. Still watch the full walkthrough even if
-you were able to complete this exercise easily, I may drop some tips. Watch it in 1.5x speed if you like.
+Watch the walkthrough in it's entirety so you don't miss out on any knowledge. Still watch the full
+walkthrough even if you were able to complete this exercise easily, so you don't miss any tips. Watch it
+in 1.5x speed if you like.
