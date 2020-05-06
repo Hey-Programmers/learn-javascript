@@ -3,6 +3,8 @@
 _Nested Loops_ are when we write a loop within the body of another loop. The pattern can be useful
 to generate "pairs" of things.
 
+Before you start this exercise, make sure you have watched the lecture first.
+
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 

@@ -4,6 +4,8 @@ A _two-dimensional array_ is an array that contains other arrays as elements. Pr
 multidimensional arrays when dealing with data that has many layers. It is also useful to represent
 a grid space.
 
+Before you start this exercise, make sure you have watched the lecture first.
+
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
