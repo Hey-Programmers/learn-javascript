@@ -8,7 +8,7 @@ Before you start this exercise, make sure you have watched the lecture first.
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
-This is maybe my favorite topic. I think it's very high leverage because it is relatively easy to
+This is might be my favorite topic. I think it's very high leverage because it is relatively easy to
 implement but greatly increases the elegance of your code. Prefer to solve complex problems with
 simple solutions.
 
