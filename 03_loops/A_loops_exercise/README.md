@@ -107,7 +107,7 @@ Create a `one-to-four.js` file and solve the function below:
 // Write a function `oneToFour` that prints all whole numbers from one to four, inclusive. The function
 // takes in no arguments and doesn't need to return any value. It should just print to the terminal.
 
-oneToSeven();
+oneToFour();
 // prints
 //  1
 //  2
