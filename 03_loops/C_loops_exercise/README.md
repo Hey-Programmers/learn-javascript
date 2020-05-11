@@ -22,13 +22,13 @@ Create a `divisible-range.js` file and solve the function below:
 // function should print all numbers between `min` and `max` (exclusive) that are also divisible by
 // num.
 
-console.log(divisibleRange(17, 40, 9));
+divisibleRange(17, 40, 9);
 // prints
 //  18
 //  27
 //  36
 
-console.log(10, 24, 4);
+divisibleRange(10, 24, 4);
 // prints
 //  12
 //  16
