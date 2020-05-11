@@ -109,7 +109,7 @@ console.log(censorE("heat")); // 'h*at'
 Create a `fizz-buzz.js` file and solve the function below:
 
 ```js
-// Write a function `fizzBuzz` that accepts a max number as an argument. The function should should
+// Write a function `fizzBuzz` that accepts a max number as an argument. The function should
 // print all numbers less than or equal to max that are divisible by either 3 or 5 but not both 3
 // and 5. The function doesn't need to return any value. It should just print to the terminal.
 
