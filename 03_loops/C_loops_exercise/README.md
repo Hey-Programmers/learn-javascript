@@ -65,7 +65,7 @@ reverseIterate("box");
 Create a `remove-capitals.js` file and solve the function below:
 
 ```js
-// Write a function `removeCapitals` that accepts a string as an arugment. The function should return a
+// Write a function `removeCapitals` that accepts a string as an argument. The function should return a
 // new version of the string with all capital letters removed.
 
 console.log(removeCapitals("fOrEver")); // 'frver'
