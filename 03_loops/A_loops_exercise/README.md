@@ -198,7 +198,7 @@ Create an `evens.js` file and solve the function below:
 // Write a function `evens(max)` that accepts a max number as an argument. The function should print
 // all positive even numbers that are less than the max.
 
-console.log(evens(11));
+evens(11);
 // prints
 //  2
 //  4
@@ -206,7 +206,7 @@ console.log(evens(11));
 //  8
 //  10
 
-console.log(evens(8));
+evens(8);
 // prints
 //  2
 //  4
