@@ -130,7 +130,7 @@ countUp(5);
 //  2
 //  3
 //  4
-//  4
+//  5
 
 countUp(3);
 // prints
