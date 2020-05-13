@@ -125,3 +125,10 @@ console.log(contains("SORRY", "or")); // true
 console.log(contains("tangent", "gem")); // false
 console.log(contains("clock", "ok")); // false
 ```
+
+
+## Walkthrough
+
+Watch the walkthrough in it's entirety so you don't miss out on any knowledge. Still watch the full
+walkthrough even if you were able to complete this exercise easily, so you don't miss any tips.
+Watch it in 1.5x speed if you like.
