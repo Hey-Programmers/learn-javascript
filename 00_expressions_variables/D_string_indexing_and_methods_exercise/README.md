@@ -65,7 +65,7 @@ Type the code. Don't copy and paste. Run it. Check your predictions.
 
 ## 2. Dare to Decipher?
 
-Inside of the `string-indexing-and-methods` folder create another file named `date-to-decipher.js`.
+Inside of the `string-indexing-and-methods` folder create another file named `dare-to-decipher.js`.
 Predict what the following code will print out:
 
 ```js
