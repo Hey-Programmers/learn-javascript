@@ -25,7 +25,7 @@ console.log("promenade"[3]);
 console.log("tiger"[1]);
 console.log("wheel".length);
 console.log("wheel".length - 1);
-console.log("noMAD".toUppercase());
+console.log("noMAD".toUpperCase());
 console.log("hey programmers"[2] === "y");
 
 console.log("volleyball".length > 20);
