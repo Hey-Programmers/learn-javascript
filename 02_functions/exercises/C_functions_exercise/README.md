@@ -5,6 +5,8 @@ More practice!
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
++ [Walkthrough](https://youtu.be/KCv1ovMB4DU)
+
 I think the reason why coding has a reputation for being nonintuitive is because beginners don't
 spend enough time on the basics. They miss a step early, but instead of filling that gap of
 knowledge, they preemptively move on. They'll stumble through more advanced topics until that debt

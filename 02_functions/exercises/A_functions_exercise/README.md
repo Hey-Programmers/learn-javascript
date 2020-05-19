@@ -5,11 +5,16 @@ single logical unit. Functions may take _arguments_ as input and return some val
 
 Before you start this exercise, make sure you have watched the lecture first.
 
++ [Lecture](https://youtu.be/g7fBqWTdeMw)
+
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
 This is where we bring well defined structure to our code. If so far we've only learned the isolated
 "words", "phrases", and "sentences" of programming, we now turn our attention to the "paragraphs".
+
++ [Walkthrough Part 1](https://youtu.be/hS-p8ICd7Ek)
++ [Walkthrough Part 2](https://youtu.be/pE9JYGobDQg)
 
 -AZ
 

@@ -6,6 +6,8 @@ and do it well.
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
++ [Walkthrough](https://youtu.be/YQjR-TSWE-U)
+
 Programmers write functions. You are a programmer. You write functions.
 
 -AZ
