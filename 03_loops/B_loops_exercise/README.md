@@ -25,7 +25,7 @@ Create a `five-multiples-of.js` file and solve the function below:
 // print out the first five multiples of the given number. The function doesn't need to return any
 // value. It should just print to the terminal.
 
-console.log(fiveMultiplesOf(7));
+fiveMultiplesOf(7);
 // prints
 //  7
 //  14
@@ -33,7 +33,7 @@ console.log(fiveMultiplesOf(7));
 //  28
 //  35
 
-console.log(fiveMultiplesOf(3));
+fiveMultiplesOf(3);
 // prints
 //  3
 //  6
@@ -68,13 +68,13 @@ Create a `no-ohs.js` file and solve the function below:
 // characters of the string one by one except the character 'o'. The function doesn't need to return
 // any value. It should just print to the terminal.
 
-console.log(noOhs("code"));
+noOhs("code");
 // prints
 //  c
 //  d
 //  e
 
-console.log(noOhs("school"));
+noOhs("school");
 // prints
 //  s
 //  c
@@ -105,9 +105,9 @@ Create a `string-repeater.js` file and solve the function below:
 // Write a function named `stringRepeater(str, num)` that accepts a string and a number as arguments.
 // The function should return a new string consisting of the `str` repeated `num` number of times.
 
-console.log(charRepeater("q", 4)); // 'qqqq'
-console.log(charRepeater("go", 2)); // 'gogo'
-console.log(charRepeater("tac", 3)); // 'tactactac'
+console.log(stringRepeater("q", 4)); // 'qqqq'
+console.log(stringRepeater("go", 2)); // 'gogo'
+console.log(stringRepeater("tac", 3)); // 'tactactac'
 ```
 
 ### productUpTo

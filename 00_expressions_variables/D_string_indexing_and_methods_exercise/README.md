@@ -25,7 +25,7 @@ console.log("promenade"[3]);
 console.log("tiger"[1]);
 console.log("wheel".length);
 console.log("wheel".length - 1);
-console.log("noMAD".toUppercase());
+console.log("noMAD".toUpperCase());
 console.log("hey programmers"[2] === "y");
 
 console.log("volleyball".length > 20);
@@ -65,7 +65,7 @@ Type the code. Don't copy and paste. Run it. Check your predictions.
 
 ## 2. Dare to Decipher?
 
-Inside of the `string-indexing-and-methods` folder create another file named `date-to-decipher.js`.
+Inside of the `string-indexing-and-methods` folder create another file named `dare-to-decipher.js`.
 Predict what the following code will print out:
 
 ```js

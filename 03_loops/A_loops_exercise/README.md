@@ -107,7 +107,7 @@ Create a `one-to-four.js` file and solve the function below:
 // Write a function `oneToFour` that prints all whole numbers from one to four, inclusive. The function
 // takes in no arguments and doesn't need to return any value. It should just print to the terminal.
 
-oneToSeven();
+oneToFour();
 // prints
 //  1
 //  2
@@ -130,7 +130,7 @@ countUp(5);
 //  2
 //  3
 //  4
-//  4
+//  5
 
 countUp(3);
 // prints
@@ -174,7 +174,7 @@ Create a `string-iterate.js` file and solve the function below:
 // each character of the string, one by one. The function doesn't need to return any value. It should
 // just print to the terminal.
 
-console.log(stringIterate("celery"));
+stringIterate("celery");
 // prints
 //  c
 //  e
@@ -183,7 +183,7 @@ console.log(stringIterate("celery"));
 //  r
 //  y
 
-console.log(stringIterate("hat"));
+stringIterate("hat");
 // prints
 //  h
 //  a
@@ -198,7 +198,7 @@ Create an `evens.js` file and solve the function below:
 // Write a function `evens(max)` that accepts a max number as an argument. The function should print
 // all positive even numbers that are less than the max.
 
-console.log(evens(11));
+evens(11);
 // prints
 //  2
 //  4
@@ -206,7 +206,7 @@ console.log(evens(11));
 //  8
 //  10
 
-console.log(evens(8));
+evens(8);
 // prints
 //  2
 //  4

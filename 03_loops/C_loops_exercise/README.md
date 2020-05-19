@@ -22,13 +22,13 @@ Create a `divisible-range.js` file and solve the function below:
 // function should print all numbers between `min` and `max` (exclusive) that are also divisible by
 // num.
 
-console.log(divisibleRange(17, 40, 9));
+divisibleRange(17, 40, 9);
 // prints
 //  18
 //  27
 //  36
 
-console.log(10, 24, 4);
+divisibleRange(10, 24, 4);
 // prints
 //  12
 //  16
@@ -65,7 +65,7 @@ reverseIterate("box");
 Create a `remove-capitals.js` file and solve the function below:
 
 ```js
-// Write a function `removeCapitals` that accepts a string as an arugment. The function should return a
+// Write a function `removeCapitals` that accepts a string as an argument. The function should return a
 // new version of the string with all capital letters removed.
 
 console.log(removeCapitals("fOrEver")); // 'frver'
@@ -109,7 +109,7 @@ console.log(censorE("heat")); // 'h*at'
 Create a `fizz-buzz.js` file and solve the function below:
 
 ```js
-// Write a function `fizzBuzz` that accepts a max number as an argument. The function should should
+// Write a function `fizzBuzz` that accepts a max number as an argument. The function should
 // print all numbers less than or equal to max that are divisible by either 3 or 5 but not both 3
 // and 5. The function doesn't need to return any value. It should just print to the terminal.
 
