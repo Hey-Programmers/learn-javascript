@@ -4,8 +4,13 @@ _Loops_ are a construct that programmers use control the repeated execution of c
 
 Before you start this exercise, make sure you have watched the lecture first.
 
++ [Lecture](https://youtu.be/gs4WlW-ZQfg)
+
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
+
++ [Walkthrough Part 1](https://youtu.be/D_Vh-Opw-_I)
++ [Walkthrough Part 2](https://youtu.be/rlolQAocQyA)
 
 I think loops are great because we can type a small amount of code, but instruct the computer to
 perform a lot of "work". The programmer is lazy and computer doesn't complain. What a perfect pair.

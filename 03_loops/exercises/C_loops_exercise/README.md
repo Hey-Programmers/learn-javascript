@@ -3,6 +3,8 @@
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
++ [Lecture](https://youtu.be/3uEzx16zwIM)
+
 You are getting good at solving problems using loops. Let's up the difficulty.
 
 -AZ

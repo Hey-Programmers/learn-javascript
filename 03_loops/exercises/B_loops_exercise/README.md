@@ -5,6 +5,8 @@ More practice on `for` loops!
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
++ [Walkthrough](https://youtu.be/7EbhmLAH__o)
+
 Roses are read, violets are blue, error on line 32.
 
 -AZ
