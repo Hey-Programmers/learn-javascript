@@ -7,8 +7,13 @@ will also appear later in more advanced applications.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
-If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
++ [Lecture](https://youtu.be/QoeKfd9MYWA)
+
+If you get stuck during this exercise, reference this [walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
+
++ [Walkthrough Part 1](https://youtu.be/lXlNybyHclc)
++ [Walkthrough Part 2](https://youtu.be/4sf1uP9OIDI)
 
 This is where we begin to unlock the basic programming patterns that you'll always be able to rely
 on. Study them closely.
