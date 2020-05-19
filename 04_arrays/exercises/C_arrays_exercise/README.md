@@ -5,6 +5,8 @@ Let's do one more array exercise before we hit the next topic.
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
++ [Walkthrough](https://youtu.be/Whk1gGafY78)
+
 Remember that time at the beginning of the course where you couldn't read or write any code? Look at 
 you now, smarty pants.
 

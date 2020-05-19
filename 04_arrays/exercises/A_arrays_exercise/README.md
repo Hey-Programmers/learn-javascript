@@ -5,8 +5,12 @@ _array_ contains one or more _elements_.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
++ [Lecture](https://youtu.be/ekVhX_HfbBE)
+
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
+
++ [Walkthrough](https://youtu.be/mibav-eq9EY)
 
 New programmers often ask why the first index is 0 and not 1. Let's go half on it. 0.5?
 
