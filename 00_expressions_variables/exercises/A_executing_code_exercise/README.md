@@ -21,7 +21,7 @@ Let's get to work.
 4. Use VSCode to create a file named `greeting.js` inside of `my-first-programs`.
 5. Inside of `greeting.js`, write the single line of code `console.log('hello world');`. This will
    cause the program to print `hello world` when you execute it later.
-6. Save the `greeting.js` file using the keyboard shortcut `cmd + s`.
+6. Save the `greeting.js` file using the keyboard shortcut `cmd + s` or `ctrl + s`.
 7. Open the terminal and enter the command `node greeting.js` to execute your code. **You should see
    `hello world` printed out.**
 
