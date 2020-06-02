@@ -6,8 +6,12 @@ programs in this course. Let's bang out the first four.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
++ [Lecture](https://youtu.be/U-679Jd3fmQ)
+
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
+
++ [Walkthrough](https://youtu.be/f7CZUGFdhfg)
 
 Let's get to work.
 
