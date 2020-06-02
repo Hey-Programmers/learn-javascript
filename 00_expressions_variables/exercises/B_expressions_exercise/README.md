@@ -5,12 +5,13 @@ compose an expression. An _expression_ evaluates to some _value_.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
-+ [Lecture](https://youtu.be/U-679Jd3fmQ)
++ [Lecture Part 1](https://youtu.be/NORcxNPVtg4)
++ [Lecture Part 2](https://youtu.be/1y9DCzWYons)
 
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
 
-+ [Walkthrough](https://youtu.be/f7CZUGFdhfg)
++ [Walkthrough](https://youtu.be/oMHa_c21sCw)
 
 The fundamentals of any skill aren't particularly glamorous. We'll learn the "cool" stuff when you
 are ready. Crawl. Walk. Run.
