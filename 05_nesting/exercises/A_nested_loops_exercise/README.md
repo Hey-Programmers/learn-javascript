@@ -5,8 +5,12 @@ to generate "pairs" of things.
 
 Before you start this exercise, make sure you have watched the lecture first.
 
++ [Lecture](https://youtu.be/68VmjvtOGGI)
+
 If you get stuck during this exercise, reference this walkthrough. Only watch enough of the
 walkthrough to get yourself unstuck, then pause the video and pick up the exercise on your own.
+
++ [Walkthrough](https://youtu.be/seiovGIFokM)
 
 If you are comfortable with single loops, then you'll find nested loops pretty intuitive. Good thing
 we practiced single loops a ton already.
