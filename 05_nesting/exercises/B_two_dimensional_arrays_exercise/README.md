@@ -131,7 +131,8 @@ Create a `zipper.js` file and solve the function below:
 
 ```js
 // Write a function `zipper` that accepts two arrays as arguments. The function should return a 2D
-// array containing pairs of elements at the same indices.
+// array containing pairs of elements at the same indices. You can assume that the arrays have the 
+// same length.
 
 let array1 = ["a", "b", "c", "d"];
 let array2 = [-1, -2, -3, -4];
